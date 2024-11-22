@@ -2,6 +2,8 @@
 
 [![Kosa Backend Tests](https://github.com/pariyatti/kosa/actions/workflows/kosa-tests.yml/badge.svg)](https://github.com/pariyatti/kosa/actions/)
 
+**⚠️ ⚠️ ⚠️ PLEASE NOTE: This service is deprecated in favour of [Kosa2](https://github.com/pariyatti/kosa2) ⚠️ ⚠️ ⚠️**
+
 Pariyatti's Library and Mobile services.
 
 ## Mobile App API
